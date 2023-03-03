@@ -13,3 +13,4 @@ if deityhubscript == "2":
 if deityhubscript == "3":
     script = requests.get("https://pastebin.com/raw/v62nzyfD3").text
     print(script)
+ #deptrai
